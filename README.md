@@ -83,11 +83,11 @@
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> 
 </a>
-</p>
-<!--                                        SUPPORT                                  -->
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/solomon.chidera"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="solomon.chidera" /></a></p><br><br>
 
+</p>
+<!--                                        SUPPORT                                  -->
 <p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=SolomonChidera&show_icons=true&theme=dark&locale=en&layout=compact" alt="SolomonChidera" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=SolomonChidera&show_icons=true&theme=dark&locale=en" alt="SolomonChidera" /></p>
