@@ -24,6 +24,9 @@
 <a href="https://www.linkedin.com/in/solomonchidera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/solomonchidera" height="30" width="40" /></a>
 </p>
 
+<p align="left">
+<a href="https://twitter.com/SolomonChidera_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter-alt.svg" alt="twitter.com/SolomonChidera_" height="30" width="40" /></a>
+
 <h3 align="left">Frontend:</h3>
 <p align="left">
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
