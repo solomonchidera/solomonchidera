@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **solochidera10@gmail.com**
 
-<!--- 📄 Know about my experiences [https://resume-sytu.netlify.app/](https://resume-sytu.netlify.app/)-->
+<!--- 📄 Know about my experiences [https://--/](https://resume/)-->
 
 - ⚡ Fun fact **I am funny**
 
