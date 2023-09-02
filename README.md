@@ -18,7 +18,7 @@
 
 <!--- 📄 Know about my experiences [https://--/](https://resume/)-->
 
-- ⚡ Fun fact **I am funny**
+- ⚡ Fun fact **Loading...**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
