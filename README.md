@@ -92,5 +92,6 @@
 <p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=SolomonChidera&show_icons=true&theme=dark&locale=en&layout=compact" alt="SolomonChidera" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=SolomonChidera&show_icons=true&theme=dark&locale=en" alt="SolomonChidera" /></p>
+## Contribution!
 
 ![Solomon's GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=solomonchidera&theme=highcontrast)
