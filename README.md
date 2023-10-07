@@ -10,7 +10,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sytunguyen77&label=Profile%20views&color=0e75b6&style=flat" alt="sytunguyen77" /> </p>
 
 
-- 🌱 I’m currently learning **Everything it takes to be a software Engineer**
+- 🌱 I’m currently learning **Everything it takes to be a Software Engineer**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SolomonChidera/](https://github.com/SolomonChidera/)
 
