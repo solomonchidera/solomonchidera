@@ -88,10 +88,11 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/solomon.chidera"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="solomon.chidera" /></a></p><br><br>
 
+<h3 align= "left">Stats:</h3>
 </p>
 <p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=SolomonChidera&show_icons=true&theme=dark&locale=en&layout=compact" alt="SolomonChidera" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=SolomonChidera&show_icons=true&theme=dark&locale=en" alt="SolomonChidera" /></p>
-## Contribution!
 
+<h3 align="left">Contribution:</h3>
 ![Solomon's GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=solomonchidera&theme=highcontrast)
