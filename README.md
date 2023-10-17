@@ -28,7 +28,6 @@
 <a href="https://instagram.com/solo_iscoding" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="solo_iscoding" height="30" width="40" /></a>
 </p>
 
-
 <h3 align="left">Frontend:</h3>
 <p align="left">
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
