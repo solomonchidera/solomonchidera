@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Everything it takes to be a Software Engineer**
 
-- 👨‍💻 All of my projects are available at [https://github.com/SolomonChidera/](https://github.com/SolomonChidera/)
+- 👨‍💻 All of my projects are available at [project section](https://solomonchidera.github.io/projects.html)
 - I create awesome wordpress sites too
 -  👨‍💻 C is one of my favourite language cause **Why Not?**
 - 📫 How to reach me **solochidera10@gmail.com**
