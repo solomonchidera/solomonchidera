@@ -11,9 +11,9 @@
 
 - 🌱 I’m currently learning **Everything it takes to be a Software Engineer**
 
-- 👨‍💻 All of my projects are available at [project section](https://solomonchidera.github.io/projects.html)
+- 👨‍💻 All of my projects are available at <a href="https://solomonchidera.github.io/projects.html" target="_blank">project page</a>
 - I create awesome wordpress sites too
--  👨‍💻 C is one of my favourite language cause **Why Not?**
+- 👨‍💻 C is one of my favourite language cause **Why Not?**
 - 📫 How to reach me **solochidera10@gmail.com**
 
 <!--- 📄 Know about my experiences [https://--/](https://resume/)-->
