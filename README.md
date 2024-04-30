@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Everything it takes to be a Software Engineer**
 
-- 👨‍💻 All of my projects are available at <a href="https://solochid.vercel.app/" target="_blank">project page</a>
+- 👨‍💻 All of my projects are available at <a href="https://solochid.vercel.app/" target="_blank">here</a>
 - I create awesome wordpress sites too
 - 👨‍💻 C is one of my favourite language cause **Why Not?**
 - 📫 How to reach me **solochidera10@gmail.com**
