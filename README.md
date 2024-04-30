@@ -30,3 +30,5 @@ class Solomon extends Developer {
 <!--<div style="width: 80vw;">
     <img style="width: 100%;" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SolomonChidera&theme=dark&hide_border=true&layout=compact">
 </div>-->
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/1052162509567692800)](https://discord.com/users/1052162509567692800)
