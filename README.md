@@ -6,7 +6,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SolomonChidera&label=Profile%20views&color=0e75b6&style=flat" alt="SolomonChidera" /> </p>
 
-
 ```java
 class Developer {
     @Getter
@@ -24,11 +23,19 @@ class Solomon extends Developer {
 }
 ```
 -----
-#### Contact Me:
-[![Discord Icon](https://img.shields.io/badge/Discord-7289d9?style=for-the-badge&logo=Discord&logoColor=ffffff)](https://discord.com/users/1052162509567692800)
+
 
 <!--<div style="width: 80vw;">
     <img style="width: 100%;" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SolomonChidera&theme=dark&hide_border=true&layout=compact">
 </div>-->
+<!--[![My Skills](https://skillicons.dev/icons?i=js,html,css,c,django,docker,flask,firebase,git,github,linux,md,mysql,nodejs,nginx)](https://skillicons.dev)-->
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/1052162509567692800)](https://discord.com/users/1052162509567692800)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,js,docker,c,vim,flask,firebase,css,python,linux,html,mysql,nodejs,nginx" />
+  </a>
+</p>
+
+<!--[![Discord Presence](https://lanyard.cnrad.dev/api/1052162509567692800)](https://discord.com/users/1052162509567692800)-->
+#### Contact Me:
+[![Discord Icon](https://img.shields.io/badge/Discord-7289d9?style=for-the-badge&logo=Discord&logoColor=ffffff&align=left)](https://discord.com/users/1052162509567692800)
