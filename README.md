@@ -4,7 +4,7 @@
 <a href="/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&center=true&vCenter=true&width=1159&lines=Welcome+To+My+Profile;Yoo+%2F+Bonjour+%2F+%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF++%2F+%E4%BD%A0%E5%A5%BD++%2F+Xin+ch%C3%A0o" alt="Typing SVG" /></a>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=SolomonChidera&label=Profile%20views&color=0e75b6&style=flat" alt="SolomonChidera" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=SolomonChidera&label=Profile%20views&color=0e75b6&style=flat" alt="solomon's viewers" /> </p>
 
 ```java
 class Developer {
