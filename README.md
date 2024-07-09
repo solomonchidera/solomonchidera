@@ -12,6 +12,7 @@ class Developer {
     private final String name, description;
     @Getter
     private final URL website;
+    help
 }
 
 class Solomon extends Developer {
