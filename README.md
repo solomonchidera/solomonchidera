@@ -37,5 +37,5 @@ class Solomon extends Developer {
 </p>
 
 <!--[![Discord Presence](https://lanyard.cnrad.dev/api/1052162509567692800)](https://discord.com/users/1052162509567692800)-->
-#### Contact Me:
+#### Message Me:
 [![Discord Icon](https://img.shields.io/badge/Discord-7289d9?style=for-the-badge&logo=Discord&logoColor=ffffff&align=left)](https://discord.com/users/1052162509567692800)
