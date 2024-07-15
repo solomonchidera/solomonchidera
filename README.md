@@ -18,7 +18,7 @@ class Solomon extends Developer {
     public solomon() {
         this.name = "Solomon";
         this.description = "Am a Software Engineer";
-        this.website = new URL("https://solochid.vercel.app/");
+        this.website = new URL("https://solochid.me");
     }
 }
 ```
