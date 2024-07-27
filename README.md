@@ -19,6 +19,7 @@ class Solomon extends Developer {
         this.name = "Solomon";
         this.description = "Am a Software Engineer";
         this.website = new URL("https://solochid.me");
+        this.blog = new URL("https://solochidera.tech");
     }
 }
 ```
