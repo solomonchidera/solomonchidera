@@ -33,7 +33,7 @@ class Solomon extends Developer {
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,js,docker,c,vim,flask,firebase,css,python,linux,html,mysql,nodejs,nginx" />
+    <img src="https://skillicons.dev/icons?i=git,js,docker,c,vim,flask,firebase,css,python,linux,html,mysql,nodejs,nginx,discord" />
   </a>
 </p>
 
