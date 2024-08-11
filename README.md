@@ -20,6 +20,7 @@ class Solomon extends Developer {
         this.description = "Am a Software Engineer";
         this.website = new URL("https://solochid.me");
         this.blog = new URL("https://solochidera.tech");
+        this.email = URL("solochidera10@gmail.com");
     }
 }
 ```
