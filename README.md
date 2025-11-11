@@ -17,7 +17,7 @@ class Developer {
 class Solomon extends Developer {
     public solomon() {
         this.name = "Solomon";
-        this.description = "Am a Software Engineer";
+        this.description = "im a Software Engineer currently building AutoDeskOps";
         this.website = new URL("https://solochid.me");
         this.blog = new URL("https://solochidera.tech");
         this.email = new URL("solochidera10@gmail.com");
